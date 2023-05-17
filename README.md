@@ -1,5 +1,5 @@
 # IslandRaceAssets
- Designed 3D assets for an island theme race game for university project in 2020
+ Designed 3D assets for an island theme race game for university project in 2020  
  3D Studio Max is used to design models.
  
  ## Assets include:
